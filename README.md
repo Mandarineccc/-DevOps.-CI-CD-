@@ -27,12 +27,12 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/123.png)`
-2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/456.png)`
-3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/456.png)`
-4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/678.png)`
-5. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/890.png)`
-6. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/012.png)`
+1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/123.png)
+2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/456.png)
+3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/456.png)
+4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/678.png)
+5. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/890.png)
+6. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/012.png)
 
 ```
 Поле для вставки кода...
@@ -52,10 +52,10 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/P111.png)`
-2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p222.png)`
-3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p333.png)`
-4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p444.png)`
+1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/P111.png)
+2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p222.png)
+3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p333.png)
+4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/p444.png)
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
@@ -77,10 +77,10 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н111.png)`
-2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н222.png)`
-3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н333.png)`
-4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н444.png)`
+1. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н111.png)
+2. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н222.png)
+3. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н333.png)
+4. `[ссылку](https://github.com/Mandarineccc/-DevOps.-CI-CD-/blob/main/img/н444.png)
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
